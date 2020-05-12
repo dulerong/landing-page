@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/landing-page/static/css/main.d1b05096.chunk.css",
-    "main.js": "/landing-page/static/js/main.b68237b0.chunk.js",
-    "main.js.map": "/landing-page/static/js/main.b68237b0.chunk.js.map",
+    "main.css": "/landing-page/static/css/main.e90fec95.chunk.css",
+    "main.js": "/landing-page/static/js/main.a32668b4.chunk.js",
+    "main.js.map": "/landing-page/static/js/main.a32668b4.chunk.js.map",
     "runtime-main.js": "/landing-page/static/js/runtime-main.bbd2f894.js",
     "runtime-main.js.map": "/landing-page/static/js/runtime-main.bbd2f894.js.map",
-    "static/js/2.72b1dba8.chunk.js": "/landing-page/static/js/2.72b1dba8.chunk.js",
-    "static/js/2.72b1dba8.chunk.js.map": "/landing-page/static/js/2.72b1dba8.chunk.js.map",
+    "static/css/2.7bb80337.chunk.css": "/landing-page/static/css/2.7bb80337.chunk.css",
+    "static/js/2.93a8529b.chunk.js": "/landing-page/static/js/2.93a8529b.chunk.js",
+    "static/js/2.93a8529b.chunk.js.map": "/landing-page/static/js/2.93a8529b.chunk.js.map",
     "index.html": "/landing-page/index.html",
-    "precache-manifest.f0672a8469ef0caed749fbffd3b3fc37.js": "/landing-page/precache-manifest.f0672a8469ef0caed749fbffd3b3fc37.js",
+    "precache-manifest.d8a2f67d6c393084b412cf0ace84f95b.js": "/landing-page/precache-manifest.d8a2f67d6c393084b412cf0ace84f95b.js",
     "service-worker.js": "/landing-page/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/landing-page/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.72b1dba8.chunk.js.LICENSE.txt": "/landing-page/static/js/2.72b1dba8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/landing-page/static/media/logo.5d5d9eef.svg"
+    "static/css/2.7bb80337.chunk.css.map": "/landing-page/static/css/2.7bb80337.chunk.css.map",
+    "static/css/main.e90fec95.chunk.css.map": "/landing-page/static/css/main.e90fec95.chunk.css.map",
+    "static/js/2.93a8529b.chunk.js.LICENSE.txt": "/landing-page/static/js/2.93a8529b.chunk.js.LICENSE.txt",
+    "static/media/calculator.png": "/landing-page/static/media/calculator.e2bfab9d.png",
+    "static/media/codeydu.jpg": "/landing-page/static/media/codeydu.755490b1.jpg",
+    "static/media/drum-machine.png": "/landing-page/static/media/drum-machine.d3db3614.png",
+    "static/media/emailViewer.png": "/landing-page/static/media/emailViewer.755106a5.png",
+    "static/media/font-awesome.min.css": "/landing-page/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/japan-population.png": "/landing-page/static/media/japan-population.e1633613.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bbd2f894.js",
-    "static/js/2.72b1dba8.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b68237b0.chunk.js"
+    "static/css/2.7bb80337.chunk.css",
+    "static/js/2.93a8529b.chunk.js",
+    "static/css/main.e90fec95.chunk.css",
+    "static/js/main.a32668b4.chunk.js"
   ]
 }
